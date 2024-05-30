@@ -1,4 +1,7 @@
-### Heya! I'm MightyOwl86/Ryan Grant.
+# Heya! I'm MightyOwl86/Ryan Grant.
+I'm a Web Developer from Newfoundland. (Currently looking for work)<br>
+#
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyowl866&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **mightyowl866/mightyowl866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
