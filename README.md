@@ -1,5 +1,5 @@
 # Heya! I'm MightyOwl86/Ryan Grant.
-I'm a Web Developer from Newfoundland. (Currently looking for work)<br>
+I'm a Web Developer from Newfoundland.<br>
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyowl866&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
